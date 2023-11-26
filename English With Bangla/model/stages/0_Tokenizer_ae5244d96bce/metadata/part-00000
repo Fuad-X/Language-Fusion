@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Tokenizer","timestamp":1700985591374,"sparkVersion":"3.5.0","uid":"Tokenizer_ae5244d96bce","paramMap":{"outputCol":"Tokenized_Question","inputCol":"Question"},"defaultParamMap":{"outputCol":"Tokenizer_ae5244d96bce__output"}}
